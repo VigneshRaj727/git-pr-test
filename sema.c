@@ -1,4 +1,4 @@
-#define VERSION "4.4.4"
+#define VERSION "4.4.5"
 
 int main() {
     printf("Customer cross compilation support");
